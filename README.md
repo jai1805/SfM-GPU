@@ -1,2 +1,2 @@
 # SfM-GPU
-#d reconstruction on GPU
+3D reconstruction on GPU
